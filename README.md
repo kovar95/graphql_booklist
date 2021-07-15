@@ -2,7 +2,7 @@
 
 Application build to show simple usage of GraphQL - built with React(Frontend) and NodeJS(Backend)
 
-![screenshot](./client/public/assets/screenshots/book_list.png)
+![screenshot](./client/public/book_list.png)
 
 ## Description
 
